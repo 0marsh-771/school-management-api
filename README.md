@@ -11,7 +11,7 @@ A Spring Boot REST API for managing students, teachers, and directors with role-
 
   * STUDENT
   * TEACHER
-  * DIRECTOR
+  * PRINCIPAL
 * Swagger/OpenAPI documentation
 * MySQL database integration
 * Spring Data JPA
@@ -39,7 +39,7 @@ A Spring Boot REST API for managing students, teachers, and directors with role-
 * Create and update records
 * Cannot delete records
 
-### DIRECTOR
+### PRINCIPAL
 
 * Full access to all endpoints
 
